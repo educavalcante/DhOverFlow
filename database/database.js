@@ -1,6 +1,6 @@
 const Sequelize = require('sequelize')
 
-const connection = new Sequelize('dhoverflow', 'root', 'Info@1234', {
+const connection = new Sequelize('dhoverflow', 'root', 'Update1245', {
   host: 'localhost',
   dialect: 'mysql'
 })
